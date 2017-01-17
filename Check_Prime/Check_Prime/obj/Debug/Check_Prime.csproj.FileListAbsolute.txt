@@ -1,0 +1,5 @@
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Check_Prime\Check_Prime\bin\Debug\Check_Prime.exe.config
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Check_Prime\Check_Prime\bin\Debug\Check_Prime.exe
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Check_Prime\Check_Prime\bin\Debug\Check_Prime.pdb
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Check_Prime\Check_Prime\obj\Debug\Check_Prime.exe
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Check_Prime\Check_Prime\obj\Debug\Check_Prime.pdb

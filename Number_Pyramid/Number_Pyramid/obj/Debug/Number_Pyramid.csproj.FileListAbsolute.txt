@@ -1,0 +1,6 @@
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Number_Pyramid\Number_Pyramid\bin\Debug\Number_Pyramid.exe.config
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Number_Pyramid\Number_Pyramid\bin\Debug\Number_Pyramid.exe
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Number_Pyramid\Number_Pyramid\bin\Debug\Number_Pyramid.pdb
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Number_Pyramid\Number_Pyramid\obj\Debug\Number_Pyramid.csprojResolveAssemblyReference.cache
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Number_Pyramid\Number_Pyramid\obj\Debug\Number_Pyramid.exe
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Number_Pyramid\Number_Pyramid\obj\Debug\Number_Pyramid.pdb

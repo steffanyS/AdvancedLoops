@@ -1,0 +1,6 @@
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Numbers_N_with_Step_3\Numbers_N_with_Step_3\bin\Debug\Numbers_N_with_Step_3.exe.config
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Numbers_N_with_Step_3\Numbers_N_with_Step_3\bin\Debug\Numbers_N_with_Step_3.exe
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Numbers_N_with_Step_3\Numbers_N_with_Step_3\bin\Debug\Numbers_N_with_Step_3.pdb
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Numbers_N_with_Step_3\Numbers_N_with_Step_3\obj\Debug\Numbers_N_with_Step_3.csprojResolveAssemblyReference.cache
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Numbers_N_with_Step_3\Numbers_N_with_Step_3\obj\Debug\Numbers_N_with_Step_3.exe
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Numbers_N_with_Step_3\Numbers_N_with_Step_3\obj\Debug\Numbers_N_with_Step_3.pdb

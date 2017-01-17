@@ -1,0 +1,5 @@
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Number_in_range_1_100\Number_in_range_1_100\bin\Debug\Number_in_range_1_100.exe.config
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Number_in_range_1_100\Number_in_range_1_100\bin\Debug\Number_in_range_1_100.exe
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Number_in_range_1_100\Number_in_range_1_100\bin\Debug\Number_in_range_1_100.pdb
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Number_in_range_1_100\Number_in_range_1_100\obj\Debug\Number_in_range_1_100.exe
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Number_in_range_1_100\Number_in_range_1_100\obj\Debug\Number_in_range_1_100.pdb

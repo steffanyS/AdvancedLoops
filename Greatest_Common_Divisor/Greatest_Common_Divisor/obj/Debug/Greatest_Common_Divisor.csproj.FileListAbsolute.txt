@@ -1,0 +1,5 @@
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Greatest_Common_Divisor\Greatest_Common_Divisor\bin\Debug\Greatest_Common_Divisor.exe.config
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Greatest_Common_Divisor\Greatest_Common_Divisor\bin\Debug\Greatest_Common_Divisor.exe
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Greatest_Common_Divisor\Greatest_Common_Divisor\bin\Debug\Greatest_Common_Divisor.pdb
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Greatest_Common_Divisor\Greatest_Common_Divisor\obj\Debug\Greatest_Common_Divisor.exe
+E:\SoftUni\ProgrammingBasics\07.Advanced loops\Greatest_Common_Divisor\Greatest_Common_Divisor\obj\Debug\Greatest_Common_Divisor.pdb
